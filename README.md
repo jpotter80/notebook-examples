@@ -1,7 +1,7 @@
 # E-commerce Data Cleaning with DuckDB
 ## Data Quality Assessment and Cleaning Demonstration
 
-This repository demonstrates our systematic approach to cleaning and standardizing e-commerce product data using DuckDB. The notebook serves as a detailed walkthrough of our data cleaning methodology, showcasing how we handle common data quality challenges in e-commerce datasets.
+This repository demonstrates a systematic approach to cleaning and standardizing e-commerce product data using DuckDB. The notebook serves as a detailed walkthrough of our data cleaning methodology, showcasing how we handle common data quality challenges in e-commerce datasets.
 
 ## Overview
 
